@@ -1,0 +1,97 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+#res{
+    color: goldenrod;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+#col1{
+    width: 100%;
+}
+a:hover{
+    color: blanchedalmond;
+}
+.ul{
+    padding-left: 60%;
+
+}
+#button{
+    width: 50%;
+}
+.h1{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 10px;
+    color: goldenrod;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.img2{
+    background-image:url(https://t4.ftcdn.net/jpg/03/15/56/21/360_F_315562154_IHPB75WqP42YzXarrHYasro0Q0VQUbad.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.row{
+    padding-bottom: 25%;
+}
+marquee{
+    padding-top: 15px;
+    color: black;
+
+}
+#carousel{
+    margin-top: 10px;
+}
+.carousel-caption{
+    color:cyan;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+form{
+    color:black;
+    padding-left: 40px;
+    padding-bottom: 15px;
+}
+.h2{
+    color: black;
+    text-align: center;
+}
+.c1{
+    width:350px ;
+    height: 350px;
+}
+.imgo{
+    width:350px;
+    height:300px ;
+    padding-left: 40px;
+    padding: 20px;
+}
+.r1{
+    padding-top: 10px;
+    height: 450px;
+}
+.r2{
+    padding-top: 10px;
+    height: 450px;
+}
+.card{
+    width: 1800px;
+    height: 350px;
+    margin-top: 30px;
+
+}
+
+.img{
+    width: 350px;
+    height: 350px;
+    border-radius: 20%;
+    padding: 70px;
+}
+#c{
+    padding-top: 120px;
+    padding-left: 10%;
+    color: white;
+}
